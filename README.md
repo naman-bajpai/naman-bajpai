@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naman-bajpai
 - 👀 I’m interested in building interactive websites, aiming to specialize in search engines.
-- 🌱 I’m currently learning java and python.
-- 💞️ I’m looking to collaborate on java based projects.
+- 🌱 I’m currently learning java, html, css and javascript.
+- 💞️ I’m looking to collaborate on web based projects.
 - 📫 You can reach me on my gmail id which is namanbajpai3003@gmail.com
 
 <!---
