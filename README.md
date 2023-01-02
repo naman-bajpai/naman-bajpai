@@ -45,7 +45,7 @@ Over the past two years, I have gained extensive experience in both android and 
                           
                       <a href="https://www.github.com/naman-bajpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/naman-bajpai-a70b93176/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                      <a href="https://www.linkedin.com/in/naman-bajpai-a70b93176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
                       <a href="https://www.twitter.com/namanbajpaiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
                           
