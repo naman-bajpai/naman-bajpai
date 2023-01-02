@@ -6,10 +6,12 @@ Full stack developer and designer
 
 Over the past two years, I have gained extensive experience in both android and web development. In my current role, I have been responsible for designing and building a range of android and web applications, using languages such as Java and HTML/CSS. I have also had the opportunity to work on a variety of projects, including both small and large-scale projects, which have allowed me to develop my skills and knowledge in these areas. Throughout my time in android and web development, I have learned how to analyze user requirements, design and implement solutions, and troubleshoot and fix issues. I have also gained experience in working with a team, and I am comfortable collaborating with others to achieve common goals. I am now seeking new opportunities to continue building on my skills and experiences in android and web development. I am interested in exploring different roles and industries, and I am open to considering both short-term and long-term opportunities. I am confident that my background in android and web development, along with my strong problem-solving and communication skills, make me a valuable asset to any team.
 
-*   🌍  I'm based in Indianapolis, USA 🇺🇸
-*   ✉️  You can contact me at [namanbajpai4@gmail.com](mailto:namanbajpai4@gmail.com)
-*   🤝  I'm open to collaborating on to all kinds of projects 
-*   Skills 
+* 🌍  I'm based in Indianapolis, USA 🇺🇸
+* ✉️  You can contact me at [namanbajpai4@gmail.com](mailto:namanbajpai4@gmail.com)
+* 🤝  I'm open to collaborating on to all kinds of projects
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -37,19 +39,16 @@ Over the past two years, I have gained extensive experience in both android and 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-  ### Socials
-                  
-                  
- <p align="left">
-                          
-                      <a href="https://www.github.com/naman-bajpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/naman-bajpai-a70b93176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/namanbajpaiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/@NamanBajpaii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/naman-bajpai"><img src="https://github-readme-stats.vercel.app/api?username=naman-bajpai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="naman-bajpai's GitHub stats" /></a><a
-                      href="http://www.github.com/naman-bajpai"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=naman-bajpai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/naman-bajpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-bajpai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/naman-bajpai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/naman-bajpai-a70b93176/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/namanbajpaiii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/@NamanBajpaii" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/naman-bajpai"><img src="https://github-readme-stats.vercel.app/api?username=naman-bajpai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="naman-bajpai's GitHub stats" /></a>
+
+<a href="http://www.github.com/naman-bajpai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-bajpai&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/naman-bajpai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-bajpai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
