@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naman Bajpai
 ====================================================================================================================================
 
-Full stack developer and designer
+Full stack developer 
 ---------------------------------
 
 Over the past two years, I have gained extensive experience in both android and web development. In my current role, I have been responsible for designing and building a range of android and web applications, using languages such as Java and HTML/CSS. I have also had the opportunity to work on a variety of projects, including both small and large-scale projects, which have allowed me to develop my skills and knowledge in these areas. Throughout my time in android and web development, I have learned how to analyze user requirements, design and implement solutions, and troubleshoot and fix issues. I have also gained experience in working with a team, and I am comfortable collaborating with others to achieve common goals. I am now seeking new opportunities to continue building on my skills and experiences in android and web development. I am interested in exploring different roles and industries, and I am open to considering both short-term and long-term opportunities. I am confident that my background in android and web development, along with my strong problem-solving and communication skills, make me a valuable asset to any team.
