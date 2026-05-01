@@ -2,6 +2,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-* 🌍  I'm based in Florida, USA 🇺🇸
 * ✉️  You can contact me at [namanbajpai4@gmail.com](mailto:namanbajpai4@gmail.com)
 * 🤝  I'm open to collaborating on to all kinds of projects
