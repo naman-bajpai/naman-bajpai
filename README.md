@@ -13,18 +13,6 @@ Reach me:   namanbajpai4@gmail.com
 
 ---
 
-## Things I've built
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Glimpse](#)** | Native macOS menu-bar assistant that answers questions about your active window using ScreenCaptureKit and Vision OCR. No copy-paste, no app switching. Provider-neutral AI layer across Anthropic, OpenAI, Perplexity, and Gemini. **200 MAU.** | Swift 6, SwiftUI, ScreenCaptureKit, Supabase, Stripe, CloudKit |
-| **[StuDeliver](#)** | Hyperlocal food delivery and student services platform. Zero to live iOS app in under 3 months, solo. **1,000+ signups, 500+ active users.** | React Native, Supabase, Stripe Connect |
-| **[ReZ](#)** | AI booking OS for social commerce. Automates bookings through Instagram DMs and SMS, with a vision/RAG workflow that reads client inspiration images and generates itemized quotes. | Next.js, Supabase, Claude/GPT-4o, Meta Graph API, Stripe Connect |
-| **[Echo Health](#)** | Ambient clinical documentation. Transcribes patient visits and drafts structured SOAP notes in real time. 2nd place, Health Track, NexHacks 2026. | LiveKit, Whisper, Claude/GPT-4, Next.js |
-| **[TeenOp](#)** | Hyperlocal freelance marketplace for teens. Owned product, engineering, and go-to-market. | Next.js, Supabase, Stripe Connect, Twilio, Google Maps API |
-| **[SAP Migration Engine](#)** | RAG-grounded LLM pipeline for ABAP/SAP ECC to S/4HANA code migration, with static analysis and automated unit-test generation. | Python, RAG, LLMs |
-
----
 
 ## Stack
 
