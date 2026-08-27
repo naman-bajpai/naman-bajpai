@@ -1,6 +1,6 @@
 # Naman Bajpai
 
-**Software engineer in NYC. I ship products end to end, usually as the only engineer.**
+**Founder @Glimpse and @StuDeliver. I ship products end to end, usually as the only engineer.**
 
 Native macOS and iOS apps, full-stack web, and applied LLM systems. Architecture through App Store review, payments, and the 2am production bug. FSU CS '26.
 
